@@ -1,0 +1,5 @@
+_background_
+rice1
+rice2
+rice3
+rice4
